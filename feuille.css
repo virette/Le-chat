@@ -1,0 +1,62 @@
+body {
+	background-color: #CCCCCC;
+	color:rgb(75,75,75);
+	font-family: 'Open Sans', sans-serif;
+	}
+p {
+	font-size: 16 px;
+	text-align: center;
+	margin: 10px;
+	}
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	padding-top: 250px;
+	}
+h2{
+	text-align: center;
+	background-color: #cccccc; 
+	color: black;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	}
+a{
+	text-decoration: none;
+	}
+a:hover{
+	opacity: 0,7;
+	color: white;
+	text-decoration: underline;	
+	}
+#banner {
+	height: 550px;
+	background-image: url('images/chat.jpg');
+	background-size: cover;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+	margin: 0px;
+	background-position: fixed;
+	}
+.feature{
+	text-align: center;
+	margin-top: 50px
+	padding:20px;
+	font-weight: 300;
+	}
+#footer{
+	background-color: black;
+	padding:10px;
+	color: white;
+	}
+.navbar{ 
+	background-color: #cccccc;
+	border-color: #cccccc;
+	border-width: 5px;
+	margin: 0;
+	 }
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+.btn{
+margin-bottom: 43px; 
+}
